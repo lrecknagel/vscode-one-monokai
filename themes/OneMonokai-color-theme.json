@@ -508,7 +508,7 @@
         "fontStyle": "bold",
         "foreground": "#ffffff"
       }
-    }
+    },
     {
       "name": "JS Decorator",
       "scope": "tag.decorator.js, tag.decorator.js punctuation.definition.tag.js",
