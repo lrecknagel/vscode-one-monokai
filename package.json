@@ -2,7 +2,7 @@
     "name": "one-monokai-italic",
     "displayName": "One Monokai Theme Italic",
     "description": "A cross between Monokai and One Dark theme with added italics",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "lrecknagel",
     "engines": {
         "vscode": "^1.13.0"

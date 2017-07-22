@@ -3,7 +3,7 @@
 A cross between Monokai and One Dark theme with added italics
 This *italics* fork is based on the theme [*One Monokai*](https://github.com/azemoh/vscode-one-monokai)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![Installs](https://vsmarketplacebadge.apphb.com/installs/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![GitHub stars](https://img.shields.io/github/stars/azemoh/vscode-one-monokai.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lrecknagel/vscode-one-monokai)
+[![Version](https://vsmarketplacebadge.apphb.com/version/lrecknagel.one-monokai-italic.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![Installs](https://vsmarketplacebadge.apphb.com/installs/lrecknagel.one-monokai-italic.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/lrecknagel.one-monokai-italic.svg)](https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic) [![GitHub stars](https://img.shields.io/github/stars/lrecknagel/vscode-one-monokai.svg)](https://github.com/lrecknagel/vscode-one-monokai)
 
 
 ## Install
