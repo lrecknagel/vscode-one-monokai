@@ -1,9 +1,9 @@
 {
-    "name": "one-monokai",
-    "displayName": "One Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme",
-    "version": "0.4.6",
-    "publisher": "azemoh",
+    "name": "one-monokai-italic",
+    "displayName": "One Monokai Theme Italic",
+    "description": "A cross between Monokai and One Dark theme with added italics",
+    "version": "0.5.0",
+    "publisher": "lrecknagel",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "One Monokai Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneMonokai-color-theme.json"
             }
@@ -22,18 +22,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/lrecknagel/vscode-one-monokai"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/lrecknagel/vscode-one-monokai/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/lrecknagel/vscode-one-monokai/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Italic",
+        "Italics"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com) & Lucas Recknagel <lucas91@me.com>",
     "license": "MIT"
 }
