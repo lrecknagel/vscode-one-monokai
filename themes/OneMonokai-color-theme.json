@@ -1,5 +1,5 @@
 {
-  "name": "One Monokai",
+  "name": "One Monokai Italic",
   "type": "dark",
   "colors": {
     "activityBar.background": "#2F333D",
@@ -97,10 +97,26 @@
       }
     },
     {
+      "name": "js template-expression",
+      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
+      "settings": {
+        "foreground": "#c678dd",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "TemplateString",
+      "scope": "string.template.js",
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#c678dd",
+        "fontStyle": "italic"
       }
     },
     {
@@ -135,7 +151,8 @@
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#56b6c2",
+        "fontStyle": "italic"
       }
     },
     {
@@ -145,14 +162,16 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#56b6c2",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#e06c75",
+        "fontStyle": "italic"
       }
     },
     {
@@ -307,7 +326,8 @@
       "name": "Tag Attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#98c379",
+        "fontStyle": "italic"
       }
     },
     {
@@ -580,6 +600,14 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "JS Decorator",
+      "scope": "tag.decorator.js, tag.decorator.js punctuation.definition.tag.js",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#c24038"
       }
     }
   ]
