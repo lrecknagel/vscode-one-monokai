@@ -1,6 +1,7 @@
 # One Monokai Theme Italic
 
 A cross between Monokai and One Dark theme with added italics
+This *italics* fork is based on the theme [*One Monokai*](https://github.com/azemoh/vscode-one-monokai)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![Installs](https://vsmarketplacebadge.apphb.com/installs/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![GitHub stars](https://img.shields.io/github/stars/azemoh/vscode-one-monokai.svg?style=social&label=Star&maxAge=2592000)](https://github.com/azemoh/vscode-one-monokai)
 
