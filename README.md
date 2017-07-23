@@ -14,9 +14,13 @@ ext install one-monokai-italics
 ```
 
 ## Screenshot
-Screenshot of Ruby and JavaScript
+Screenshot of JavaScript and Rust
 
 ![Theme Screenshot](screenshot-v0.1.0.png)
+
+## Recommendations
+Works best with a coding language with italics support:
+I tried with [Hasklig](https://github.com/i-tu/Hasklig) and with OperatorMono.
 
 ## Change log
 You can take a look at the change log [here](https://github.com/lrecknagel/vscode-one-monokai/blob/master/CHANGELOG.md)
