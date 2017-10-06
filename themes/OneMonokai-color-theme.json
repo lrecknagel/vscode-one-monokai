@@ -83,7 +83,8 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#676f7d"
+        "foreground": "#69e07f",
+        "fontStyle": "italic"
       }
     },
     {
