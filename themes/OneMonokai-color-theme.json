@@ -173,6 +173,19 @@
       "settings": {
         "foreground": "#e06c75",
         "fontStyle": "italic"
+<<<<<<< HEAD
+=======
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": [
+        "variable.readwrite",
+        "variable.readwrite.other.block"
+      ],
+      "settings": {
+        "foreground": "#61afef"
+>>>>>>> d01b9490c7101b833d0d3e52b56ed010322b0a40
       }
     },
     {
